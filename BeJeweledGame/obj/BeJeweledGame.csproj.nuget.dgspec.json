@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Project\\BeJewelGame\\BeJeweledGame\\BeJeweledGame\\BeJeweledGame.csproj": {}
+    "E:\\Project\\BeJeweledGame\\BeJeweledGame\\BeJeweledGame.csproj": {}
   },
   "projects": {
-    "E:\\Project\\BeJewelGame\\BeJeweledGame\\BeJeweledGame\\BeJeweledGame.csproj": {
+    "E:\\Project\\BeJeweledGame\\BeJeweledGame\\BeJeweledGame.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Project\\BeJewelGame\\BeJeweledGame\\BeJeweledGame\\BeJeweledGame.csproj",
+        "projectUniqueName": "E:\\Project\\BeJeweledGame\\BeJeweledGame\\BeJeweledGame.csproj",
         "projectName": "BeJeweledGame",
-        "projectPath": "E:\\Project\\BeJewelGame\\BeJeweledGame\\BeJeweledGame\\BeJeweledGame.csproj",
+        "projectPath": "E:\\Project\\BeJeweledGame\\BeJeweledGame\\BeJeweledGame.csproj",
         "packagesPath": "C:\\Users\\TAN\\.nuget\\packages\\",
-        "outputPath": "E:\\Project\\BeJewelGame\\BeJeweledGame\\BeJeweledGame\\obj\\",
+        "outputPath": "E:\\Project\\BeJeweledGame\\BeJeweledGame\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

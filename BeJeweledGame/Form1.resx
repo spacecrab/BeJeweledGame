@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!--
-    Microsoft ResX Schema 
+    Microsoft ResX Schema
 
     Version 2.0
 
@@ -48,7 +48,7 @@
     value   : The object must be serialized with
             : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
             : and then encoded with base64 encoding.
-    
+
     mimetype: application/x-microsoft.net.object.soap.base64
     value   : The object must be serialized with
             : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
@@ -117,4 +117,17 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="button5.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAB
+        EgAAARIBezqkZAAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAEtSURBVFhHtZc7
+        bgJBEETnYoTcwmS2wMKRJSe+qAMCJGwJiQBO4E+VRUlLa2aZT3dJL2mGfcVndiAhC/ABDuCBg+CswCeg
+        k+60A79XfsAziAqvTYd8dKfTZBBZwsoJ3Wk9GQjvEjk5ofs/r8A+yCe8gNE8gW9gr/8ObhJRolqueJZo
+        liseJbrlykiJYbnSU8JNrrSUcJcrNSXC5MpciXC58gashCWInXNtSHLvhMX9ldvMlQiXM6XPvLQ7XFOS
+        i9ASG5D7wlm4hmtdM7fVWm5WXanZ52ElWm4y7iUeQa1cKZXYgqb0yJXhEiNypbuEh1xpLuEpV6pLRMiV
+        uyX4X40Du8jzSC0d5XSn43UwJeI8z5WgO+0nAxL2YwKxJehOS/AFzsD9EMmEjguAMy3/AB2jTp0fv5+a
+        AAAAAElFTkSuQmCC
+</value>
+  </data>
 </root>

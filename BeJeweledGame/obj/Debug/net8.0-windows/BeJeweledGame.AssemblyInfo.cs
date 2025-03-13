@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BeJeweledGame")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a4843e09683b442a0e6210f615fba0eb6c56e517")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cb92aa5029bce0660d094aa8bc67bfa3c144e6ab")]
 [assembly: System.Reflection.AssemblyProductAttribute("BeJeweledGame")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BeJeweledGame")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

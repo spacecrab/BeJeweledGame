@@ -61,7 +61,7 @@ namespace BeJeweledGame {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Andy.
+        ///   Looks up a localized string similar to rtetert.
         /// </summary>
         internal static string name1 {
             get {
@@ -70,7 +70,7 @@ namespace BeJeweledGame {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Brian.
+        ///   Looks up a localized string similar to sdfwerwrwerwer.
         /// </summary>
         internal static string name2 {
             get {
@@ -79,7 +79,7 @@ namespace BeJeweledGame {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to ________.
+        ///   Looks up a localized string similar to sdfsdfsdf.
         /// </summary>
         internal static string name3 {
             get {
@@ -88,7 +88,7 @@ namespace BeJeweledGame {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to ________.
+        ///   Looks up a localized string similar to Andy.
         /// </summary>
         internal static string name4 {
             get {
@@ -97,7 +97,7 @@ namespace BeJeweledGame {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to ________.
+        ///   Looks up a localized string similar to dfgdfgdfg.
         /// </summary>
         internal static string name5 {
             get {
@@ -106,7 +106,7 @@ namespace BeJeweledGame {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 320.
+        ///   Looks up a localized string similar to 1230.
         /// </summary>
         internal static string score1 {
             get {
@@ -115,7 +115,7 @@ namespace BeJeweledGame {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 80.
+        ///   Looks up a localized string similar to 990.
         /// </summary>
         internal static string score2 {
             get {
@@ -124,7 +124,7 @@ namespace BeJeweledGame {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 0.
+        ///   Looks up a localized string similar to 495.
         /// </summary>
         internal static string score3 {
             get {
@@ -133,7 +133,7 @@ namespace BeJeweledGame {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 0.
+        ///   Looks up a localized string similar to 320.
         /// </summary>
         internal static string score4 {
             get {
@@ -142,7 +142,7 @@ namespace BeJeweledGame {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 0.
+        ///   Looks up a localized string similar to 225.
         /// </summary>
         internal static string score5 {
             get {

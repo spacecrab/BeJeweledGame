@@ -55,7 +55,7 @@ namespace BeJeweledGame
         private const int stepTotal = 15;
         private const int boardMargin = 20;
         private const int jewelSpacing = 10;
-        private const int Penalty = 2000;
+        private const int Penalty = -200;
 
         private static int BorderWidth;
         private static int WIDTH;
@@ -320,6 +320,7 @@ namespace BeJeweledGame
 
             if (hasMatch == false && isSpecialMove == false)
             {
+                CalculateScore(-1);
                 await SwapJewel(jewel1, jewel2);
                 GlobalFlags.isAnimating = false;
                 return;
@@ -329,7 +330,7 @@ namespace BeJeweledGame
 
             if (isSpecialMove)
             {
-                hasMatch = await SpecialMatch(board, jewel1, jewel2, hasMatch);
+                hasMatch = await SpecialMove(board, jewel1, jewel2, hasMatch);
             }
             else
             {
@@ -355,7 +356,7 @@ namespace BeJeweledGame
 
         }
 
-        private static async Task<bool> SpecialMatch(List<List<Jewel>> board, Jewel jewel1, Jewel jewel2, bool hasMatch)
+        private static async Task<bool> SpecialMove(List<List<Jewel>> board, Jewel jewel1, Jewel jewel2, bool hasMatch)
         {
             ClearMarkedJewel(board);
 
@@ -708,6 +709,7 @@ namespace BeJeweledGame
         private static async Task RemoveMarkedJewel(List<List<Jewel>> board, List<Jewel> MarkedJewel)
         {
             List <Jewel> NextMarkedJewel = new List<Jewel>();
+            CalculateScore(MarkedJewel.Count);
             List <Task> tasks = new List<Task>();
 
             foreach (Jewel jewel in MarkedJewel)
@@ -797,6 +799,7 @@ namespace BeJeweledGame
 
         private void ActivateOneBomb(List<List<Jewel>> board, Jewel jewel, List<Jewel> NextMarkedJewel)
         {
+            CalculateScore(5);
             BombAnimation(pnl_Board);
             for (int i = -1; i <= 1; i++)
             {
@@ -817,6 +820,7 @@ namespace BeJeweledGame
 
         private void ActivateOneCross(List<List<Jewel>> board, Jewel jewel, List<Jewel> NextMarkedJewel)
         {
+            CalculateScore(8);
             CrossAnimation(pnl_Board);
 
             for (int i = 1; i <= HEIGHT; i++)
@@ -840,6 +844,8 @@ namespace BeJeweledGame
 
         private void ActivateOneStar(List<List<Jewel>> board, Jewel jewel, Type jeweltype, List <Jewel> NextMarkedJewel)
         {
+            CalculateScore(12);
+
             for (int i = 1; i <= HEIGHT; i++)
             {
                 for (int j = 1; j <= WIDTH; j++)
@@ -996,7 +1002,7 @@ namespace BeJeweledGame
             UpdateBoardNoAnimation();
             Form1.Instance?.Newgame();
             GlobalFlags.isGameOver = false;
-            //timerSession.Start();
+            timerSession.Start();
         }
 
         private static Form CreateDarkenAreaForm(Size size)
@@ -1197,29 +1203,23 @@ namespace BeJeweledGame
             }
         }
 
-        private static int CalculateScore(List<List<bool>> isMatch)
+        private static void CalculateScore(int num)
         {
-            int score = 0;
-            for (int i = 1; i <= HEIGHT; i++)
+            int score = num;
+            CalculateTimer(score);
+            if (score == -1)
             {
-                for (int j = 1; j <= WIDTH; j++)
-                {
-                    if (isMatch[i][j])
-                    {
-                        score++;
-                    }
-                }
+                score = -20;
             }
             Score += score * scoreMultiplier;
             Form1.Instance?.SetScore(Score);
-            return score;
         }
 
         private static void CalculateTimer(int score)
         {
             if (score == -1)
             {
-                timerSessionValue -= Penalty;
+                timerSessionValue += Penalty*200;
             }
             else if (score == 0)
             {

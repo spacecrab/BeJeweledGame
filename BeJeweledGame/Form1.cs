@@ -66,6 +66,12 @@ namespace BeJeweledGame
             if (COUNT > Enum.GetValues(typeof(Jewel.Type)).Length)
                 throw new Exception("COUNT must be less than or equal to the number of Jewel.Type");
 
+            string path = Application.ExecutablePath;
+            DirectoryInfo dirInfo = new DirectoryInfo(path);
+            DirectoryInfo parentDir = dirInfo.Parent.Parent.Parent.Parent.Parent;
+
+            GlobalConst.appFolder = parentDir.FullName;
+
             Initialize();
             InitializeHighScore();
         }
@@ -305,7 +311,7 @@ namespace BeJeweledGame
 
         private void WriteData(List<Player> players)
         {
-            string resxFile = @"C:\Users\TAN\Desktop\BeJewelGame\BeJeweledGame\BeJeweledGame\HighScore.resx";
+            string resxFile = GlobalConst.appFolder + @"\BeJeweledGame\HighScore.resx";
 
             using (ResXResourceWriter resxWriter = new ResXResourceWriter(resxFile))
             {
@@ -343,6 +349,11 @@ namespace BeJeweledGame
         private void button5_Click(object sender, EventArgs e)
         {
             this.Close();
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

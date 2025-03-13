@@ -1,33 +1,49 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Project\\BeJewelGame\\BeJeweledGame\\",
+  "WorkspaceRootPath": "E:\\Project\\BeJeweledGame\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DC3744C7-F88F-4AB1-ACC8-461A22C55083}|BeJeweledGame\\BeJeweledGame.csproj|e:\\project\\bejewelgame\\bejeweledgame\\bejeweledgame\\asset.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
-      "RelativeMoniker": "D:0:0:{DC3744C7-F88F-4AB1-ACC8-461A22C55083}|BeJeweledGame\\BeJeweledGame.csproj|solutionrelative:bejeweledgame\\asset.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DC3744C7-F88F-4AB1-ACC8-461A22C55083}|BeJeweledGame\\BeJeweledGame.csproj|e:\\project\\bejewelgame\\bejeweledgame\\bejeweledgame\\asset.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC3744C7-F88F-4AB1-ACC8-461A22C55083}|BeJeweledGame\\BeJeweledGame.csproj|solutionrelative:bejeweledgame\\asset.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DC3744C7-F88F-4AB1-ACC8-461A22C55083}|BeJeweledGame\\BeJeweledGame.csproj|e:\\project\\bejewelgame\\bejeweledgame\\bejeweledgame\\globalflags.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC3744C7-F88F-4AB1-ACC8-461A22C55083}|BeJeweledGame\\BeJeweledGame.csproj|solutionrelative:bejeweledgame\\globalflags.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DC3744C7-F88F-4AB1-ACC8-461A22C55083}|BeJeweledGame\\BeJeweledGame.csproj|e:\\project\\bejewelgame\\bejeweledgame\\bejeweledgame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC3744C7-F88F-4AB1-ACC8-461A22C55083}|BeJeweledGame\\BeJeweledGame.csproj|solutionrelative:bejeweledgame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DC3744C7-F88F-4AB1-ACC8-461A22C55083}|BeJeweledGame\\BeJeweledGame.csproj|e:\\project\\bejewelgame\\bejeweledgame\\bejeweledgame\\asset.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
-      "RelativeMoniker": "D:0:0:{DC3744C7-F88F-4AB1-ACC8-461A22C55083}|BeJeweledGame\\BeJeweledGame.csproj|solutionrelative:bejeweledgame\\asset.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DC3744C7-F88F-4AB1-ACC8-461A22C55083}|BeJeweledGame\\BeJeweledGame.csproj|e:\\project\\bejewelgame\\bejeweledgame\\bejeweledgame\\jewel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DC3744C7-F88F-4AB1-ACC8-461A22C55083}|BeJeweledGame\\BeJeweledGame.csproj|e:\\project\\bejeweledgame\\bejeweledgame\\jewel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DC3744C7-F88F-4AB1-ACC8-461A22C55083}|BeJeweledGame\\BeJeweledGame.csproj|solutionrelative:bejeweledgame\\jewel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DC3744C7-F88F-4AB1-ACC8-461A22C55083}|BeJeweledGame\\BeJeweledGame.csproj|E:\\Project\\BeJewelGame\\BeJeweledGame\\bejeweledgame\\highscore.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "AbsoluteMoniker": "D:0:0:{DC3744C7-F88F-4AB1-ACC8-461A22C55083}|BeJeweledGame\\BeJeweledGame.csproj|e:\\project\\bejeweledgame\\bejeweledgame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC3744C7-F88F-4AB1-ACC8-461A22C55083}|BeJeweledGame\\BeJeweledGame.csproj|solutionrelative:bejeweledgame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC3744C7-F88F-4AB1-ACC8-461A22C55083}|BeJeweledGame\\BeJeweledGame.csproj|e:\\project\\bejeweledgame\\bejeweledgame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DC3744C7-F88F-4AB1-ACC8-461A22C55083}|BeJeweledGame\\BeJeweledGame.csproj|solutionrelative:bejeweledgame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC3744C7-F88F-4AB1-ACC8-461A22C55083}|BeJeweledGame\\BeJeweledGame.csproj|e:\\project\\bejeweledgame\\bejeweledgame\\globalconst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC3744C7-F88F-4AB1-ACC8-461A22C55083}|BeJeweledGame\\BeJeweledGame.csproj|solutionrelative:bejeweledgame\\globalconst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC3744C7-F88F-4AB1-ACC8-461A22C55083}|BeJeweledGame\\BeJeweledGame.csproj|e:\\project\\bejeweledgame\\bejeweledgame\\highscore.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{DC3744C7-F88F-4AB1-ACC8-461A22C55083}|BeJeweledGame\\BeJeweledGame.csproj|solutionrelative:bejeweledgame\\highscore.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC3744C7-F88F-4AB1-ACC8-461A22C55083}|BeJeweledGame\\BeJeweledGame.csproj|e:\\project\\bejeweledgame\\bejeweledgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC3744C7-F88F-4AB1-ACC8-461A22C55083}|BeJeweledGame\\BeJeweledGame.csproj|solutionrelative:bejeweledgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC3744C7-F88F-4AB1-ACC8-461A22C55083}|BeJeweledGame\\BeJeweledGame.csproj|e:\\project\\bejeweledgame\\bejeweledgame\\globalflags.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC3744C7-F88F-4AB1-ACC8-461A22C55083}|BeJeweledGame\\BeJeweledGame.csproj|solutionrelative:bejeweledgame\\globalflags.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC3744C7-F88F-4AB1-ACC8-461A22C55083}|BeJeweledGame\\BeJeweledGame.csproj|e:\\project\\bejeweledgame\\bejeweledgame\\asset.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{DC3744C7-F88F-4AB1-ACC8-461A22C55083}|BeJeweledGame\\BeJeweledGame.csproj|solutionrelative:bejeweledgame\\asset.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC3744C7-F88F-4AB1-ACC8-461A22C55083}|BeJeweledGame\\BeJeweledGame.csproj|e:\\project\\bejeweledgame\\bejeweledgame\\asset.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC3744C7-F88F-4AB1-ACC8-461A22C55083}|BeJeweledGame\\BeJeweledGame.csproj|solutionrelative:bejeweledgame\\asset.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC3744C7-F88F-4AB1-ACC8-461A22C55083}|BeJeweledGame\\BeJeweledGame.csproj|e:\\project\\bejeweledgame\\bejeweledgame\\asset.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{DC3744C7-F88F-4AB1-ACC8-461A22C55083}|BeJeweledGame\\BeJeweledGame.csproj|solutionrelative:bejeweledgame\\asset.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC3744C7-F88F-4AB1-ACC8-461A22C55083}|BeJeweledGame\\BeJeweledGame.csproj|E:\\Project\\BeJeweledGame\\bejeweledgame\\highscore.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
       "RelativeMoniker": "D:0:0:{DC3744C7-F88F-4AB1-ACC8-461A22C55083}|BeJeweledGame\\BeJeweledGame.csproj|solutionrelative:bejeweledgame\\highscore.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
     }
   ],
@@ -38,20 +54,21 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Jewel.cs",
-              "DocumentMoniker": "E:\\Project\\BeJewelGame\\BeJeweledGame\\BeJeweledGame\\Jewel.cs",
+              "DocumentMoniker": "E:\\Project\\BeJeweledGame\\BeJeweledGame\\Jewel.cs",
               "RelativeDocumentMoniker": "BeJeweledGame\\Jewel.cs",
-              "ToolTip": "E:\\Project\\BeJewelGame\\BeJeweledGame\\BeJeweledGame\\Jewel.cs",
+              "ToolTip": "E:\\Project\\BeJeweledGame\\BeJeweledGame\\Jewel.cs",
               "RelativeToolTip": "BeJeweledGame\\Jewel.cs",
-              "ViewState": "AgIAAGsBAAAAAAAAAAAowAsAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAALUEAAAAAAAAAAA6wMUEAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-15T01:52:08.374Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -60,22 +77,73 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Asset.Designer.cs",
-              "DocumentMoniker": "E:\\Project\\BeJewelGame\\BeJeweledGame\\BeJeweledGame\\Asset.Designer.cs",
-              "RelativeDocumentMoniker": "BeJeweledGame\\Asset.Designer.cs",
-              "ToolTip": "E:\\Project\\BeJewelGame\\BeJeweledGame\\BeJeweledGame\\Asset.Designer.cs",
-              "RelativeToolTip": "BeJeweledGame\\Asset.Designer.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAYwBEAAABIAAAAAAAAAA==",
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\Project\\BeJeweledGame\\BeJeweledGame\\Form1.cs",
+              "RelativeDocumentMoniker": "BeJeweledGame\\Form1.cs",
+              "ToolTip": "E:\\Project\\BeJeweledGame\\BeJeweledGame\\Form1.cs",
+              "RelativeToolTip": "BeJeweledGame\\Form1.cs",
+              "ViewState": "AgIAAPcAAAAAAAAAAAAYwGQBAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T18:13:21.561Z"
+              "WhenOpened": "2024-07-15T02:06:12Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "HighScore.resx",
+              "DocumentMoniker": "E:\\Project\\BeJeweledGame\\BeJeweledGame\\HighScore.resx",
+              "RelativeDocumentMoniker": "BeJeweledGame\\HighScore.resx",
+              "ToolTip": "E:\\Project\\BeJeweledGame\\BeJeweledGame\\HighScore.resx",
+              "RelativeToolTip": "BeJeweledGame\\HighScore.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-03-13T07:31:55.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GlobalConst.cs",
+              "DocumentMoniker": "E:\\Project\\BeJeweledGame\\BeJeweledGame\\GlobalConst.cs",
+              "RelativeDocumentMoniker": "BeJeweledGame\\GlobalConst.cs",
+              "ToolTip": "E:\\Project\\BeJeweledGame\\BeJeweledGame\\GlobalConst.cs",
+              "RelativeToolTip": "BeJeweledGame\\GlobalConst.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T06:09:16.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Project\\BeJeweledGame\\BeJeweledGame\\Program.cs",
+              "RelativeDocumentMoniker": "BeJeweledGame\\Program.cs",
+              "ToolTip": "E:\\Project\\BeJeweledGame\\BeJeweledGame\\Program.cs",
+              "RelativeToolTip": "BeJeweledGame\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T06:07:26.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\Project\\BeJeweledGame\\BeJeweledGame\\Form1.cs",
+              "RelativeDocumentMoniker": "BeJeweledGame\\Form1.cs",
+              "ToolTip": "E:\\Project\\BeJeweledGame\\BeJeweledGame\\Form1.cs [Design]",
+              "RelativeToolTip": "BeJeweledGame\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T06:02:35.634Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Asset.resx",
-              "DocumentMoniker": "E:\\Project\\BeJewelGame\\BeJeweledGame\\BeJeweledGame\\Asset.resx",
+              "DocumentMoniker": "E:\\Project\\BeJeweledGame\\BeJeweledGame\\Asset.resx",
               "RelativeDocumentMoniker": "BeJeweledGame\\Asset.resx",
-              "ToolTip": "E:\\Project\\BeJewelGame\\BeJeweledGame\\BeJeweledGame\\Asset.resx",
+              "ToolTip": "E:\\Project\\BeJeweledGame\\BeJeweledGame\\Asset.resx",
               "RelativeToolTip": "BeJeweledGame\\Asset.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
               "WhenOpened": "2025-03-11T18:13:51.125Z",
@@ -83,35 +151,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "E:\\Project\\BeJewelGame\\BeJeweledGame\\BeJeweledGame\\Form1.cs",
-              "RelativeDocumentMoniker": "BeJeweledGame\\Form1.cs",
-              "ToolTip": "E:\\Project\\BeJewelGame\\BeJeweledGame\\BeJeweledGame\\Form1.cs",
-              "RelativeToolTip": "BeJeweledGame\\Form1.cs",
-              "ViewState": "AgIAAK4AAAAAAAAAAAAewEABAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-15T02:06:12Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "GlobalFlags.cs",
-              "DocumentMoniker": "E:\\Project\\BeJewelGame\\BeJeweledGame\\BeJeweledGame\\GlobalFlags.cs",
+              "DocumentMoniker": "E:\\Project\\BeJeweledGame\\BeJeweledGame\\GlobalFlags.cs",
               "RelativeDocumentMoniker": "BeJeweledGame\\GlobalFlags.cs",
-              "ToolTip": "E:\\Project\\BeJewelGame\\BeJeweledGame\\BeJeweledGame\\GlobalFlags.cs",
+              "ToolTip": "E:\\Project\\BeJeweledGame\\BeJeweledGame\\GlobalFlags.cs",
               "RelativeToolTip": "BeJeweledGame\\GlobalFlags.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-14T21:14:35.489Z"
+              "WhenOpened": "2024-07-14T21:14:35.489Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
+              "Title": "Asset.Designer.cs",
+              "DocumentMoniker": "E:\\Project\\BeJeweledGame\\BeJeweledGame\\Asset.Designer.cs",
+              "RelativeDocumentMoniker": "BeJeweledGame\\Asset.Designer.cs",
+              "ToolTip": "E:\\Project\\BeJeweledGame\\BeJeweledGame\\Asset.Designer.cs",
+              "RelativeToolTip": "BeJeweledGame\\Asset.Designer.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAowBMAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T18:13:21.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Asset.resx",
-              "DocumentMoniker": "E:\\Project\\BeJewelGame\\BeJeweledGame\\BeJeweledGame\\Asset.resx",
+              "DocumentMoniker": "E:\\Project\\BeJeweledGame\\BeJeweledGame\\Asset.resx",
               "RelativeDocumentMoniker": "BeJeweledGame\\Asset.resx",
-              "ToolTip": "E:\\Project\\BeJewelGame\\BeJeweledGame\\BeJeweledGame\\Asset.resx",
+              "ToolTip": "E:\\Project\\BeJeweledGame\\BeJeweledGame\\Asset.resx",
               "RelativeToolTip": "BeJeweledGame\\Asset.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
               "WhenOpened": "2024-08-01T09:24:17.115Z",
@@ -119,14 +189,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "HighScore.resx",
-              "DocumentMoniker": "E:\\Project\\BeJewelGame\\BeJeweledGame\\BeJeweledGame\\HighScore.resx",
+              "DocumentMoniker": "E:\\Project\\BeJeweledGame\\BeJeweledGame\\HighScore.resx",
               "RelativeDocumentMoniker": "BeJeweledGame\\HighScore.resx",
-              "ToolTip": "E:\\Project\\BeJewelGame\\BeJeweledGame\\BeJeweledGame\\HighScore.resx",
+              "ToolTip": "E:\\Project\\BeJeweledGame\\BeJeweledGame\\HighScore.resx",
               "RelativeToolTip": "BeJeweledGame\\HighScore.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2024-07-15T00:54:42.626Z"
+              "WhenOpened": "2024-07-15T00:54:42.626Z",
+              "EditorCaption": ""
             }
           ]
         }

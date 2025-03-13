@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             pnl_Board = new Panel();
             pnl_HighScore = new Panel();
             pnl_NewScore = new Panel();
@@ -484,6 +485,7 @@
             btn_Switch.FlatAppearance.BorderSize = 0;
             btn_Switch.FlatStyle = FlatStyle.Flat;
             btn_Switch.Font = new Font("Nunito", 12F, FontStyle.Bold);
+            btn_Switch.ForeColor = Color.Black;
             btn_Switch.Location = new Point(109, 905);
             btn_Switch.Name = "btn_Switch";
             btn_Switch.Size = new Size(263, 52);
@@ -506,11 +508,12 @@
             // 
             // button5
             // 
+            button5.AutoSizeMode = AutoSizeMode.GrowAndShrink;
+            button5.Image = (Image)resources.GetObject("button5.Image");
             button5.Location = new Point(37, 905);
             button5.Name = "button5";
             button5.Size = new Size(53, 52);
             button5.TabIndex = 11;
-            button5.Text = "button5";
             button5.UseVisualStyleBackColor = true;
             button5.Click += button5_Click;
             // 
@@ -531,6 +534,7 @@
             Name = "Form1";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "Form1";
+            Load += Form1_Load;
             pnl_HighScore.ResumeLayout(false);
             pnl_HighScore.PerformLayout();
             pnl_NewScore.ResumeLayout(false);
