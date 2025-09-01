@@ -2,3 +2,7 @@ Unnecessary
 Assets
 E:/Project/BeJeweledGame/BeJeweledGame/BombAnimation.cs
 .vs/
+*.db
+*.suo
+*.bin
+*.v2
